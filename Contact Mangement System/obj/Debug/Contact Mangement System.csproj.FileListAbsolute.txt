@@ -1,0 +1,5 @@
+C:\Users\hp\Desktop\Contact Management System\Contact Mangement System\obj\Debug\Contact Mangement System.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Contact Management System\Contact Mangement System\obj\Debug\Contact_Management_System.Form1.resources
+C:\Users\hp\Desktop\Contact Management System\Contact Mangement System\obj\Debug\Contact_Mangement_System.Properties.Resources.resources
+C:\Users\hp\Desktop\Contact Management System\Contact Mangement System\obj\Debug\Contact Mangement System.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Contact Management System\Contact Mangement System\obj\Debug\Contact Mangement System.csproj.CoreCompileInputs.cache
